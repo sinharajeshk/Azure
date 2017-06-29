@@ -1,0 +1,8 @@
+C:\Azure\sbqueuesender\sbqueuesender\bin\Debug\sbqueuesender.exe.config
+C:\Azure\sbqueuesender\sbqueuesender\bin\Debug\sbqueuesender.exe
+C:\Azure\sbqueuesender\sbqueuesender\bin\Debug\sbqueuesender.pdb
+C:\Azure\sbqueuesender\sbqueuesender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Azure\sbqueuesender\sbqueuesender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Azure\sbqueuesender\sbqueuesender\obj\Debug\sbqueuesender.csprojResolveAssemblyReference.cache
+C:\Azure\sbqueuesender\sbqueuesender\obj\Debug\sbqueuesender.exe
+C:\Azure\sbqueuesender\sbqueuesender\obj\Debug\sbqueuesender.pdb

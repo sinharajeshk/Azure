@@ -1,0 +1,8 @@
+C:\Azure\sbqueuereceiver\sbqueuereceiver\bin\Debug\sbqueuereceiver.exe.config
+C:\Azure\sbqueuereceiver\sbqueuereceiver\bin\Debug\sbqueuereceiver.exe
+C:\Azure\sbqueuereceiver\sbqueuereceiver\bin\Debug\sbqueuereceiver.pdb
+C:\Azure\sbqueuereceiver\sbqueuereceiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Azure\sbqueuereceiver\sbqueuereceiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Azure\sbqueuereceiver\sbqueuereceiver\obj\Debug\sbqueuereceiver.csprojResolveAssemblyReference.cache
+C:\Azure\sbqueuereceiver\sbqueuereceiver\obj\Debug\sbqueuereceiver.exe
+C:\Azure\sbqueuereceiver\sbqueuereceiver\obj\Debug\sbqueuereceiver.pdb
